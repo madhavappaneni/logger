@@ -1,2 +1,2 @@
 # logger
-A python script to Log into the Fortinet Firewall at NITC
+A python script to log-in to the Fortinet Firewall at NITC
